@@ -1,0 +1,4 @@
+Info (10281): Verilog HDL Declaration information at clk_manage.v(4): object "CLK_int_delay" differs only in case from object "clk_int_delay" in the same scope
+Info (10281): Verilog HDL Declaration information at clk_manage.v(5): object "CLK_testsignal" differs only in case from object "clk_testsignal" in the same scope
+Info (10281): Verilog HDL Declaration information at clk_manage.v(6): object "CLK_data_out" differs only in case from object "clk_data_out" in the same scope
+Info (10281): Verilog HDL Declaration information at clk_manage.v(8): object "CLK_fir_lagrange" differs only in case from object "clk_fir_lagrange" in the same scope
